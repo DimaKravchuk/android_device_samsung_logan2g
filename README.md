@@ -1,6 +1,3 @@
-#Conributors
-1.FireLrd
-
 # Device configuration for Samsung Galaxy Star Pro|Plus (logan2g)
 
 ## Spec Sheet
